@@ -1,0 +1,2 @@
+1. "npm run dev" in your terminal 
+2. start the project on "localhost:3001" on your browser
